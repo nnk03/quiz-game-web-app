@@ -6,4 +6,4 @@ This project uses REACT JS's features like useState, useEffect and receives the 
 
 This website has been deployed using Netlify.
 
-Play the (game)[https://voluble-duckanoo-e5201c.netlify.app].
+Play the [game](https://voluble-duckanoo-e5201c.netlify.app).
